@@ -3,8 +3,8 @@
 The mose secret and important project in the world.
 
 Created by: C. Swierczewski
-Created by: Math 483
-Created by: Math 583
+Created by: AMath 483
+Created by: AMath 583
 
 ## How to use
 
