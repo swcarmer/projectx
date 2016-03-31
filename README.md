@@ -8,3 +8,7 @@ Created by: Chris
 
 1. install
 2. use
+
+## License
+
+BSD
