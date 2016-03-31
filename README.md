@@ -2,9 +2,9 @@
 
 The mose secret and important project in the world.
 
-Created by: Chris Swierczewski
-Created by: AMath 483
-Created by: AMath 583
+Created by: Chris S.
+Created by: AMath 4xx
+Created by: AMath 5yy
 
 ## How to use
 
