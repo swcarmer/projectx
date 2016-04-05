@@ -10,4 +10,9 @@ if today == fool:
 else:
     print "Hello, world!"
 
- 
+def worldRepliesBack():
+	print 'Hello, right back!'
+	return
+
+print 'hello, world'
+worldRepliesBack()

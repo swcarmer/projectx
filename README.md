@@ -1,6 +1,6 @@
 # ProjectX
 
-The mose secret and important project in the world.
+The most secret and important project in the world.
 
 Created by: C. Swierczewski
 Created by: AMath 483
